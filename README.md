@@ -6,7 +6,7 @@ Thanks Every Star/Folk
 ## Deploy on Heroku
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/TeamOctave/CalculatorBot/tree/calc">
+  <a href="https://heroku.com/deploy?template=https://github.com/Hari123e/CalculatorBot/tree/calc">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
